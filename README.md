@@ -43,8 +43,8 @@ endmodule
 
 /* Program to implement the given logic function and to verify its operations in quartus using Verilog programming. 
 
-Developed by:Akash Prakash
-RegisterNumber:24008757
+Developed by:Sree Govind
+RegisterNumber:24900123
 ![Screenshot 2024-11-16 185736](https://github.com/user-attachments/assets/89c67e79-a3a3-485a-82ef-d29112570ce7)
 
 
